@@ -1,0 +1,12 @@
+D:\C#  devexpress\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+D:\C#  devexpress\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+D:\C#  devexpress\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+D:\C#  devexpress\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.dll
+D:\C#  devexpress\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#  devexpress\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.dll
+D:\C#  devexpress\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+D:\C#  devexpress\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.xml
+D:\C#  devexpress\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#  devexpress\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojResolveAssemblyReference.cache
+D:\C#  devexpress\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+D:\C#  devexpress\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb

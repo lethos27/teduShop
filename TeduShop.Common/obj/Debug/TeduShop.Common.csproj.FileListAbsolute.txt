@@ -1,0 +1,4 @@
+D:\C#  devexpress\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\C#  devexpress\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\C#  devexpress\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\C#  devexpress\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
